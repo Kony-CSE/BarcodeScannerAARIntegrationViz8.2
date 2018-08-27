@@ -1,0 +1,44 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "11.0": {
+                "Kony_SDKCommons-iOS-11.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "D:\\KonyVisualizerEnterprise8.2.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\543\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SDKCommons-iOS-11.0.zip",
+                    "filepath": "D:\\KonyVisualizerWorkspace82Test\\ZxingBarcodeKony\\nativebindings\\iOS\\11.0\\Kony_SDKCommons-iOS-11.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "D:\\KonyVisualizerEnterprise8.2.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\543\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "D:\\KonyVisualizerWorkspace82Test\\ZxingBarcodeKony\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                }
+            }
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SDKCommons-Android-4.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "D:\\KonyVisualizerEnterprise8.2.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\543\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SDKCommons-Android-4.0.zip",
+                    "filepath": "D:\\KonyVisualizerWorkspace82Test\\ZxingBarcodeKony\\nativebindings\\Android\\4.0\\Kony_SDKCommons-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "D:\\KonyVisualizerEnterprise8.2.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\543\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "D:\\KonyVisualizerWorkspace82Test\\ZxingBarcodeKony\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}

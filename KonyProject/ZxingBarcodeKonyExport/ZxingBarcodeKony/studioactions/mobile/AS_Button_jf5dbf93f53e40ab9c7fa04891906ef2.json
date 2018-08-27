@@ -1,0 +1,28 @@
+{
+    "AS_Button_jf5dbf93f53e40ab9c7fa04891906ef2": {
+        "id": "AS_Button_jf5dbf93f53e40ab9c7fa04891906ef2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartup",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c9da12f8f6874836aea4a9a9d8663313"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b7110560fd0f40a78c76434033e08211",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onBtnScanBarcodeClick",
+            "display": "onBtnScanBarcodeClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}
