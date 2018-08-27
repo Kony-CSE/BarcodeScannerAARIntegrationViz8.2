@@ -5,7 +5,7 @@ This application scans the barcode using third party sdk Zxing(Open Source) and 
 Follow the below links for Integrating Scandit SDK in Android Native Project(Android Studio)
 https://github.com/journeyapps/zxing-android-embedded
 
-Requirements Steps for AAR Integration in Kony Studio 7.2.1
+Requirements Steps for AAR Integration in Kony Visualizer  8.0 and above.
 
 Step 1 Generate an AAR file which works independently. While generating the AAR file from Android Studio please check the below things.
 
