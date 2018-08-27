@@ -20,5 +20,6 @@ Note:  As the AAR files doesn't package your build.gradle file. It's developer r
 i.e. Project Settings --> Native --> Android --> Gradle Entries 
 
 Below doc ponders on merging of build.gradle files.
+http://docs.kony.com/konylibrary/visualizer/visualizer_user_guide/Content/Inputs_to_Android_Application_Developers.htm
 
 Supported Version Kony Studio 8.0 Service pack 2 and Fixpack 14 and above.
